@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="811a910e-ef7e-45a7-9e3b-5f4001347647" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/spring-boot-jwt-security.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/dto/CreateUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/dto/LoginUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/dto/RecoveryJwtTokenDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/dto/RecoveryUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/dto/TaskRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/dto/TaskResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/entitities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/entitities/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/entitities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/enums/RoleName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/enums/TaskStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/exception/TaskException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/repositories/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/security/authentication/JwtTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/security/authentication/UserAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/security/config/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/security/userdetails/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/security/userdetails/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/services/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/java/com/example/api/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-jwt-security-master/src/test/java/com/example/api/DemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joaoagr1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/joaoagr1/topicos-programacao-jwt-spring",
+    "accountId": "d65895af-d1c1-46ef-a6b8-4bc28da2cd9c"
+  }
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2yID0CJbAbYURvfhmJ3X6aLUQ3V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Code/topicos-programacao-jwt-spring"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="811a910e-ef7e-45a7-9e3b-5f4001347647" name="Changes" comment="" />
+      <created>1749512968772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749512968772</updated>
+    </task>
+    <servers />
+  </component>
+</project>
